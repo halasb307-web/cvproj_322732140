@@ -1,0 +1,3 @@
+model,average_psnr,average_ssim,number_of_images,average_runtime_seconds
+AOD-Net,11.012316,0.621853,5,2.993834
+FFA-Net,38.131514,0.992599,5,14.574087
